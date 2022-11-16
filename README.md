@@ -12,7 +12,7 @@
 
 ## Get your bot online in two ways
 ### 1. simple way
-```python=
+```python
 import discord
 from discord.ext import commands
 
@@ -25,7 +25,7 @@ if __name__=="__main__":
 ```
 ### 2. with asyncio ( can scale the bot with Cog module)
 
-```python=
+```python
 import discord
 from discord.ext import commands
 
